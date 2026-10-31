@@ -6,5 +6,5 @@
 <img width="870" height="287" alt="Image" src="https://github.com/user-attachments/assets/a5a7175d-c8fc-4908-b594-813bd845ce1a" />
 
 <audio controls>
-  <source src="[I Want You Back.mp3] (https://github.com/user-attachments/files/34214826/I.Want.You.Back.mp3)" type="audio/mpeg">
+  <source src="[I Want You Back.mp3] (https://github.com/user-attachments/files/34214826/I.Want.You.Back.mp3)" type="audio">
 </audio>
